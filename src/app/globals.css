@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+.error-text {
+  color: red;
+  font-size: small;
+  margin-top: 0;
+}
